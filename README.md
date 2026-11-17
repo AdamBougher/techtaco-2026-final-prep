@@ -1,2 +1,2 @@
 # techtaco-2026-final-VS-Code
-Tonight we will be uing the [Tutorial: Get started with Visual Studio Code](https://code.visualstudio.com/docs/editing/getting-started/editor-tutorial#_prerequisites){:target="_blank"} From the Vs code website. we will be doing things a bit diffrently, but i will be showing the basics of how to use VS codeP
+Tonight we will be uing the [Tutorial: Get started with Visual Studio Code](https://code.visualstudio.com/docs/editing/getting-started/editor-tutorial#_prerequisites) From the Vs code website. we will be doing things a bit diffrently, but i will be showing the basics of how to use VS codeP
